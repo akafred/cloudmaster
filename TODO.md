@@ -2,5 +2,8 @@
 # TODO
 
 * Fix Sublime so it handles sls as yaml.
-* Add Makefile for shorter commands.
+
+# Done
+
 * ~~Add saltcloud to cloudmaster.~~
+* ~~Add Makefile for shorter commands.~~
