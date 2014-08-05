@@ -6,6 +6,8 @@ Then uses salt-cloud to provision two ubuntu-based linode-servers, called 'ruler
 
 ## Usage
 
+Prereqs: Install virtualbox and vagrant.
+
 1. Sign up for the linode service (creditcard needed, use code LINODE10 for some extra credit).
 2. Clone this project.
 3. Create a `providers/linode.conf` (example provided).
