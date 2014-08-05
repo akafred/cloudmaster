@@ -1,0 +1,4 @@
+linode:
+  apikey: <linode api key>
+  password: <rootpassword>
+  provider: linode
